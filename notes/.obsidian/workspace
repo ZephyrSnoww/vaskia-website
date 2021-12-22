@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "4149ca62a675a087",
+    "type": "split",
+    "children": [
+      {
+        "id": "6503031267fe344e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Logs/1025-6-14.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e37902320299917c",
+    "type": "split",
+    "children": [
+      {
+        "id": "64ed70a8676e85c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd4f5d2a4d108a33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "794644c5ebdb388e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0230f72d0fa3a278",
+    "type": "split",
+    "children": [
+      {
+        "id": "6750c7e35c7e0849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cabeb9c8b75d8f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Logs/1025-6-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6503031267fe344e",
+  "lastOpenFiles": [
+    "Logs/1025-6-14.md",
+    "Table of Contents.md",
+    "index.md"
+  ]
+}
