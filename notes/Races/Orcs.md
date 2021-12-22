@@ -1,3 +1,8 @@
+---
+layout: default
+title: Orcs
+---
+
 # Orcs
 
 ## Description

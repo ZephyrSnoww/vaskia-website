@@ -1,3 +1,8 @@
+---
+layout: default
+title: Bonvar
+---
+
 # Bonvar
 
 The western shard of the continent.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Onstantia
+---
+
 # Ostantia
 
 The south-western shard of the continent. Made up of the nations of [[Kingdoms/Ostantia/Prismeen|Prismeen]] and [[Kingdoms/Ostantia/Gonwald|Gonwald]].

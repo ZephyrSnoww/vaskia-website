@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gonwald
+---
+
 # Gonwald
 
 Part of [[Shards/Ostantia|Onstantia]]. Gonwald is the kingdom of [[Races/Halflings|Halflings]]. The kingdom is known for its celebrations and drinking.

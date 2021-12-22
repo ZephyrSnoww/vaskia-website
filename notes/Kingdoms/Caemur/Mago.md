@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mago
+---
+
 # Mago
 
 Part of [[Shards/Caemur|Caemur]]. Mago is rules over by the elven [[House Yoniya]], one of the few houses cut off from the rest when the [[World Scar]] appeared.

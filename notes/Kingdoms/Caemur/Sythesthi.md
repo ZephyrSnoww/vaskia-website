@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sythesthi
+---
+
 # Sythesthi
 
 Part of [[Shards/Caemur|Caemur]]. Sythesthi struggles with poverty and often finds itself under the boot of [[Kingdoms/Caemur/Jonah|Jonah]] and [[Kingdoms/Caemur/Mago|Mago]].

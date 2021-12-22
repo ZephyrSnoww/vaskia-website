@@ -1,3 +1,8 @@
+---
+layout: default
+title: Jonah
+---
+
 # Jonah
 
 Part of [[Shards/Caemur|Caemur]]. Jonah has a tight-knit relationship with [[Isle of Gonosh|Gonosh]] and [[Kingdoms/Caemur/Mago|Mago]], ruled over by the [[Council of Thirteen]].

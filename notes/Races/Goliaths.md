@@ -1,3 +1,8 @@
+---
+layout: default
+title: Goliaths
+---
+
 # Goliaths
 
 ## Description

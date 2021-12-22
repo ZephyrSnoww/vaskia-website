@@ -1,3 +1,8 @@
+---
+layout: default
+title: Prismeen
+---
+
 # Prismeen
 
 Part of [[Shards/Ostantia|Ostantia]]. Prismeen is the primary human kingdom in Vaskia, ruled by [[Vaxen|king Vaxen]] and [[Grena|queen Grena]].

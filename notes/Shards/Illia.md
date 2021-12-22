@@ -1,3 +1,8 @@
+---
+layout: default
+title: Illia
+---
+
 # Illia
 
 The northern shard of the continent. Soon after the appearance of the [[World Scar]], Illia formed a peace treaty under the single rule of the [[Races/Giants|giant]] king, [[Golo]].

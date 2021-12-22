@@ -1,3 +1,8 @@
+---
+layout: default
+title: Caemur
+---
+
 # Caemur
 
 The south-eastern shard of the continent. Caemur is made up of the nations of [[Kingdoms/Caemur/Sythesthi|Sythesthi]], [[Kingdoms/Caemur/Jonah|Jonah]], and [[Kingdoms/Caemur/Mago|Mago]].
