@@ -8,7 +8,7 @@ title: Humans
 ## Description
 Humans are a versatile race, and tend to be determined to finish anything they set their heart on. They have a bipedal stance and don't have fur, though their versatility extends to even their physical traits. Some have no hair, some border on being furry.
 
-**Average height:** 5.4ft
+**Average height:** 5.4ft<br>
 **Average lifespan:** ~80yrs
 
 ## Residence

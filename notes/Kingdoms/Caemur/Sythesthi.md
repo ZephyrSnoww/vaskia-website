@@ -7,7 +7,7 @@ title: Sythesthi
 
 Part of [[Shards/Caemur|Caemur]]. Sythesthi struggles with poverty and often finds itself under the boot of [[Kingdoms/Caemur/Jonah|Jonah]] and [[Kingdoms/Caemur/Mago|Mago]].
 
-**Capital:** [[Simit]]
+**Capital:** [[Simit]]<br>
 **Population:** Primarily [[Races/Humans|Humans]], [[Races/Elves|Elves]], [[Races/Orcs|Orcs]], and [[Races/Goblins|Goblins]]. Most other races have left in search of greener pastures.
 
 ## Geography

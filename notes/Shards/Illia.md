@@ -7,7 +7,7 @@ title: Illia
 
 The northern shard of the continent. Soon after the appearance of the [[World Scar]], Illia formed a peace treaty under the single rule of the [[Races/Giants|giant]] king, [[Golo]].
 
-**Capital:** [[Feyn]]
+**Capital:** [[Feyn]]<br>
 **Population:** Primarily [[Races/Giants|Giants]], [[Races/Goliaths|Goliaths]], and [[Races/Dwarves|Dwarves]].
 
 ## Geography

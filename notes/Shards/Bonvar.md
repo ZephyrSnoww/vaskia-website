@@ -7,7 +7,7 @@ title: Bonvar
 
 The western shard of the continent.
 
-**Capitals:** [[Gunmari]], [[Thresh]], [[Gentri]], and [[Molark]]
+**Capitals:** [[Gunmari]], [[Thresh]], [[Gentri]], and [[Molark]]<br>
 **Population:** Mostly [[Races/Dwarves|Dwarves]] and [[Races/Humans|Humans]]. Other races can be found, albeit less commonly.
 
 ## Geography

@@ -7,7 +7,7 @@ title: Gonwald
 
 Part of [[Shards/Ostantia|Onstantia]]. Gonwald is the kingdom of [[Races/Halflings|Halflings]]. The kingdom is known for its celebrations and drinking.
 
-**Capital:** [[Dorna]]
+**Capital:** [[Dorna]]<br>
 **Population:** Primarily [[Races/Halflings|Halflings]], [[Races/Dwarves|Dwarves]], and [[Races/Humans|Humans]], though other races can be found.
 
 ## Geography

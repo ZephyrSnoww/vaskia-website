@@ -7,7 +7,7 @@ title: Jonah
 
 Part of [[Shards/Caemur|Caemur]]. Jonah has a tight-knit relationship with [[Isle of Gonosh|Gonosh]] and [[Kingdoms/Caemur/Mago|Mago]], ruled over by the [[Council of Thirteen]].
 
-**Capital:** [[Lands of Silver]]
+**Capital:** [[Lands of Silver]]<br>
 **Population:** Primarily [[Races/Humans|Humans]] and [[Races/Elves|Elves]], but plenty of exotic races can be found in the [[Kekliot|City of the Thirteen]].
 
 ## Geography

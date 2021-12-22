@@ -7,7 +7,7 @@ title: Onstantia
 
 The south-western shard of the continent. Made up of the nations of [[Kingdoms/Ostantia/Prismeen|Prismeen]] and [[Kingdoms/Ostantia/Gonwald|Gonwald]].
 
-**Capital:** [[Thelion]]
+**Capital:** [[Thelion]]<br>
 **Population:** Primarily [[Races/Humans|Humans]], [[Races/Elves|Elves]], and [[Races/Orcs|Orcs]]. Other races can be found.
 
 ## Geography
