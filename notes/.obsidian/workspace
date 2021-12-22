@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Kingdoms/Ostantia/Prismeen.md",
+            "file": "Races/Dwarves.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kingdoms/Ostantia/Prismeen.md",
+                "file": "Races/Dwarves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "6503031267fe344e",
   "lastOpenFiles": [
+    "Races/Dwarves.md",
     "Kingdoms/Ostantia/Prismeen.md",
     "Kingdoms/Ostantia/Gonwald.md",
     "Kingdoms/Caemur/Sythesthi.md",
@@ -97,7 +98,6 @@
     "Logs/1025-6-14.md",
     "Races/Orcs.md",
     "Races/Humans.md",
-    "Races/Halflings.md",
-    "Races/Goliaths.md"
+    "Races/Halflings.md"
   ]
 }
