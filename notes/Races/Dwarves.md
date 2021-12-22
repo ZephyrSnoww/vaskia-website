@@ -14,6 +14,6 @@ Dwarves have a bipedal stance and though they may be small, they make up for wha
 ## Residence
 - [[Shards/Bonvar|Bonvar]]
 - [[Kingdoms/Ostantia/Gonwald|Gonwald]]
-- [[Shards/Illia]]|Illia
+- [[Shards/Illia|Illia]]
 
 #race
