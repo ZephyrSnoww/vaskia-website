@@ -5,25 +5,27 @@
 </head>
 <body>
     <header class="page-header">
-        <a href="/" class="page-header__logo" title="Go home">
+        <!-- <a href="/" class="page-header__logo" title="Go home">
             <img src="/assets/avatar.png" alt="" width="48">
-        </a>
+        </a> -->
 
         <nav>
             <a href="/">Home</a>
             <!-- <a href="/about">About Me</a> -->
-            <a href="/Table of Contents">ToC</a>
+            <a href="/notes/Table of Contents">ToC</a>
         </nav>
     </header>
     <main>
+        <page></page>
+        <page2></page2>
         <article>
             {{content}}
         </article>
-        {% include 'backlinks.html' %}
+        <!-- {% include 'backlinks.html' %} -->
     </main>
     
     <footer class="page-footer">
-        <small>Copyright {{site.author}}</small>
+        <small>Written by <fancy>{{site.author}}</fancy></small>
     </footer>
 </body>
 </html>
