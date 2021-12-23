@@ -7,8 +7,12 @@
         "id": "6503031267fe344e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Table of Contents.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +89,8 @@
   },
   "active": "6503031267fe344e",
   "lastOpenFiles": [
+    "Table of Contents.md",
+    "index.md",
     "Other/Isle of Castion.md",
     "Other/Forgotten Isles.md",
     "Other/Isle of Junor.md",
@@ -91,8 +98,6 @@
     "Other/Isle of Gonosh.md",
     "Kingdoms/Ostantia/Prismeen.md",
     "Kingdoms/Ostantia/Gonwald.md",
-    "Kingdoms/Caemur/Sythesthi.md",
-    "Kingdoms/Caemur/Mago.md",
-    "Kingdoms/Caemur/Jonah.md"
+    "Kingdoms/Caemur/Sythesthi.md"
   ]
 }

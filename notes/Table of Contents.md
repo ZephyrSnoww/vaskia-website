@@ -32,3 +32,9 @@ title: Table of Contents
 - [[Shards/Illia|Illia]]
 - [[Shards/Ostantia|Ostantia]]
 - [[Shards/Teli|Teli]]
+
+## Other
+- [[Other/Forgotten Isles|Forgotten Isles]]
+- [[Other/Isle of Castion|Isle of Castion]]
+- [[Other/Isle of Gonosh|Isle of Gonosh]]
+- [[Other/Isle of Junor|Isle of Junor]]
