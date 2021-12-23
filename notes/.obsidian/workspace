@@ -7,12 +7,8 @@
         "id": "6503031267fe344e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Table of Contents.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "6503031267fe344e",
   "lastOpenFiles": [
-    "Table of Contents.md",
+    "Other/Isle of Castion.md",
+    "Other/Forgotten Isles.md",
+    "Other/Isle of Junor.md",
+    "Shards/Ostantia.md",
+    "Other/Isle of Gonosh.md",
     "Kingdoms/Ostantia/Prismeen.md",
     "Kingdoms/Ostantia/Gonwald.md",
     "Kingdoms/Caemur/Sythesthi.md",
     "Kingdoms/Caemur/Mago.md",
-    "Kingdoms/Caemur/Jonah.md",
-    "Shards/Teli.md",
-    "Shards/Ostantia.md",
-    "Shards/Illia.md",
-    "Shards/Caemur.md"
+    "Kingdoms/Caemur/Jonah.md"
   ]
 }
