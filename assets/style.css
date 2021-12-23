@@ -124,6 +124,19 @@ page2 {
     filter: drop-shadow(-5px 5px 5px #0008);
 }
 
+ink {
+    position: absolute;
+    width: 400px;
+    height: 700px;
+    background-image: url("./ink.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    left: 53%;
+    top: 35%;
+    z-index: 10;
+    filter: drop-shadow(-5px 5px 5px #0008);
+}
+
 article {
     overflow-y: scroll;
     height: 100%;
